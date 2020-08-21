@@ -5,6 +5,11 @@
 body{
     background-color: blue;
 }
+
+img,lado {
+    float: right;
+}
+
 main{
     background-color: chartreuse;
     width: 500px;
